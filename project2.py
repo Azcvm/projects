@@ -1,10 +1,12 @@
+#tabletennis
+
 import turtle
 
 win =turtle.Screen()
 win.title("asmit ")
 win.bgcolor("gray")
 win.setup(width=800, height=600)   #screen size
-#win.tracer(0)
+win.tracer(0)
 
 #scores
 score1=0
